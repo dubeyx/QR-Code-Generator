@@ -1,4 +1,4 @@
-# QR-Code-Generator
+(^///^)(^///^)(^///^)
 
 <h1>Free QR Generator</h1>
 QR Generator generates Code Corresponding Your Given data in high resolution Png Image. You can Download Your QR Image and anyone can retrieve your data with apt scanner.
@@ -15,5 +15,5 @@ Root URL: https://chart.googleapis.com/chart?
 
 and appending the corresponding content and fetching data for download to the user.
 
-You can Test The Tool at My Website - : courpedia.com
+You can Test The Tool at My Website - : <a href="https://courpedia.com"></a>
 
